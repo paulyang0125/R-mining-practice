@@ -1,0 +1,4 @@
+links:
+https://raw.githubusercontent.com/brenden17/sklearnlab/master/facebook/snsdata.csv
+http://www.stats.gla.ac.uk/data/3H/induction/
+http://stat.columbia.edu/~rachel/datasets/nyt1.csv
